@@ -15,7 +15,7 @@ If you are interested to know more about me welcome to my page: [Personal page o
 
 ---
 
-![sonic](assets/sonic.png)
+![sonic](sonic.png)
 
 <!--
 **an-dr/an-dr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
