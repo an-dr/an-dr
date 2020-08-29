@@ -9,8 +9,6 @@ My hobby is robotics, so probably the most interesting thing here is my robot Za
 
 Also, you could find here libraries for embedded projects, PowerShell and python packages, and a lot of other stuff. I would be happy if you participate in any of my projects but mind the license
 
----
-
 If you are interested to know more about me welcome to my page: [Personal page of Andrei Gramakov](https://www.agramakov.me/)
 
 ![sonic_pic](https://raw.githubusercontent.com/an-dr/an-dr/master/sonic.png)
