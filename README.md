@@ -13,6 +13,9 @@ Also, you could find here libraries for embedded projects, PowerShell and python
 
 If you are interested to know more about me welcome to my page: [Personal page of Andrei Gramakov](https://www.agramakov.me/)
 
+---
+
+![sonic](assets/sonic.png)
 
 <!--
 **an-dr/an-dr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
