@@ -1,0 +1,3 @@
+serial
+datetime
+-r pag\\requirements.txt
