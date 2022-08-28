@@ -5,7 +5,8 @@ I'm Andrei. An embedded software developer. Here I have a lot of repositories us
 My hobby is robotics, so probably the most interesting thing here is my robot Zakhar - here are some links
 
 - [Zakhar the Robot | Hackaday.io](https://hackaday.io/project/171888-zakhar-the-robot)
-- [an-dr/zakhar: A robotics UX project](https://github.com/an-dr/zakhar)
+- [Zakhar the Robot - 🐶 an Alive Pet Companion 😻](https://github.com/Zakhar-the-Robot)
+- [Alive OS - helps robots to be alive](https://github.com/Alive-OS)
 - [Robot with the Conscious: Imitating animal behavior for reducing user’s anxiety – technical_](https://blog.agramakov.me/2020/05/29/robot-with-the-conscious/)
 
 Also, you could find here libraries for embedded projects, PowerShell and python packages, and a lot of other stuff. I would be happy if you participate in any of my projects but mind the license
