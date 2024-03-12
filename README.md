@@ -9,7 +9,11 @@ My hobby is robotics, so probably the most interesting thing here is my robot Za
 - [Alive OS - helps robots to be alive](https://github.com/Alive-OS)
 - [Robot with the Conscious: Imitating animal behavior for reducing user’s anxiety – technical_](https://blog.agramakov.me/2020/05/29/robot-with-the-conscious/)
 
-Also, you could find here libraries for embedded projects, PowerShell and python packages, and a lot of other stuff. I would be happy if you participate in any of my projects but mind the license
+I'm interested not only in the software development, but also in the software architecture. Check out my architecture framework:
+
+- [Small Project Architecture (SPA)](https://github.com/an-dr/spa) - a framework that keeps the quality high and the project fun.
+
+Also, you can find here libraries for embedded projects, PowerShell and Python packages, and a lot of other stuff. I would be happy if you participate in any of my projects but mind the license
 
 If you are interested to know more about me welcome to my page: [Personal page of Andrei Gramakov](https://www.agramakov.me/) or you can [download my CV](cv/Andrei_Gramakov_CV.pdf).
 
