@@ -2,14 +2,14 @@
 
 I'm Andrei. An embedded software developer. Here I have a lot of repositories using C, C++, Python, and a bit others.
 
-My hobby is robotics, so probably the most interesting thing here is my robot Zakhar - here are some links
+My hobby is robotics, I have several projects here on github and a hub with all my robotics projects. Check this out:
 
-- [Zakhar the Robot | Hackaday.io](https://hackaday.io/project/171888-zakhar-the-robot)
-- [Zakhar the Robot - 🐶 an Alive Pet Companion 😻](https://github.com/Zakhar-the-Robot)
-- [Alive OS - helps robots to be alive](https://github.com/Alive-OS)
+- [My Robotics Projects](https://agramakov.me/robots)
+- [Zakhar the Robot | Hackaday.io](https://hackaday.io/project/171888-zakhar-the-robot) / [Zakhar the Robot - 🐶 an Alive Pet Companion 😻](https://github.com/Zakhar-the-Robot)
+- [Alive OS - ROS-based OS](https://github.com/Alive-OS)
 - [Robot with the Conscious: Imitating animal behavior for reducing user’s anxiety – technical_](https://blog.agramakov.me/2020/05/29/robot-with-the-conscious/)
 
-I'm interested not only in the software development, but also in the software architecture. Check out my architecture framework:
+I'm interested not only in the software development but also in the software architecture. Check out my architecture framework:
 
 - [Small Project Architecture (SPA)](https://github.com/an-dr/spa) - a framework that keeps the quality high and the project fun.
 
