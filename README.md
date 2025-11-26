@@ -1,6 +1,6 @@
 ### Hello
 
-I'm Andrei. I am an **embedded software developer** and a **software architect**. My hobbies are robotics and game dev. I also enjoy developing libraries and dev tools. 
+I'm Andrei. I am an **embedded software developer** and a **software architect**. My hobby is robotics. I also enjoy developing libraries and dev tools. 
 
 [My Blog](https://agramakov.me/blog/)
 
