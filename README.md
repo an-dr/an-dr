@@ -2,7 +2,8 @@
 
 I'm Andrei. I am an **embedded software developer** and a **software architect**. My hobby is robotics. I also enjoy developing libraries and dev tools. 
 
-[My Blog](https://agramakov.me/blog/)
+- [My Blog](https://agramakov.me/blog/)
+- [My vibe-coded projects](https://github.com/orgs/an-dr-vibe/repositories)
 
 ![sonic_pic](https://raw.githubusercontent.com/an-dr/an-dr/master/sonic.png)
 
