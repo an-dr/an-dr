@@ -1,4 +1,0 @@
-comtypes
-psutil
-python-docx
-opencv-python
