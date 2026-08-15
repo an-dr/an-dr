@@ -9,6 +9,7 @@ This GitHub is my hobby Universe. Everything is designed to be connected. My goa
 
 | | |
 |--|--|
+| **[bones](https://github.com/an-dr/bones)** | Universal enging gor games, web and netive desktop apps.|
 | **[microlog](https://github.com/an-dr/microlog)** | Logging for C/C++, from bare-metal to desktop |
 | **[microread](https://github.com/an-dr/microread)** | Log reader: CLI, VS Code extension, serial client |
 | **[Hyphoria](https://github.com/an-dr/hyphoria)** | Messaging framework - local IPC and LAN |
@@ -23,7 +24,7 @@ This GitHub is my hobby Universe. Everything is designed to be connected. My goa
 
 👾 GameDev
 
-- [artificial-will-game](https://github.com/an-dr/artificial-will-game) - C++ engine + game experiment
+- [artificial-will-game](https://github.com/an-dr/artificial-will-game-v2) - Bones-based game experiment
 - [cbb_2d](https://github.com/an-dr/cbb_2d) - Could Be Better: humble 2D meta-engine based on macroquad
 - [rgame4](https://github.com/an-dr/rgame4) - Rust game built on CBB
 
@@ -38,6 +39,7 @@ This GitHub is my hobby Universe. Everything is designed to be connected. My goa
 
 🧩 Tools
 
+- [commits](https://github.com/an-dr/commits) - Very user friendly Git client, no BS
 - [creator](https://github.com/an-dr/creator) - create files and projects from templates
 - [Env](https://github.com/an-dr/Env) - PowerShell version of Python's venv
 
