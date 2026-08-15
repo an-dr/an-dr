@@ -9,7 +9,7 @@ This GitHub is my hobby Universe. Everything is designed to be connected. My goa
 
 | | |
 |--|--|
-| **[bones](https://github.com/an-dr/bones)** | Universal enging gor games, web and netive desktop apps.|
+| **[bones](https://github.com/an-dr/bones)** | Universal extensible engine for games, web-based and native desktop apps. For **any** language that can be compiled into web assembly |
 | **[microlog](https://github.com/an-dr/microlog)** | Logging for C/C++, from bare-metal to desktop |
 | **[microread](https://github.com/an-dr/microread)** | Log reader: CLI, VS Code extension, serial client |
 | **[Hyphoria](https://github.com/an-dr/hyphoria)** | Messaging framework - local IPC and LAN |
